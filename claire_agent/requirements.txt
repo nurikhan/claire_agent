@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+python-dotenv
+langchain
+langchain-community
+pydantic
+chromadb
+sentence-transformers # HuggingFaceEmbeddings에 필요
